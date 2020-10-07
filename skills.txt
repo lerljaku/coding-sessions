@@ -1,0 +1,18 @@
+- primitive dative typy (int, string, char, byte, double...)
+- podminky (if else elif)
+- cykly (for)
+- kolekce / pole / abstraktní datovy typy (list, array, stack, queue, )
+- regex ? (preview)
+- Vlakna ? (preview)
+- Soubry (naive databaze)
+- Hazeni kokosu z panelaku
+
+Command line preview
+Tisknuti hvezdickove pyramidy
+strom
+Automated testing
+Git
+Oop
+Database
+Komunikace - http / tcp protokol
+Planovac uloh (scheduler)
