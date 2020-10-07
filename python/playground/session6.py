@@ -7,7 +7,7 @@ class MainFrame(wx.Frame):
 
         panel = wx.Panel(self)
         self.text_ctrl = wx.TextCtrl(panel)
-        my_btn = wx.Button(panel, label='Press Me')
+        my_btn = wx.Button(panel, label='Press Me please')
         my_btn.Bind(wx.EVT_BUTTON, self.on_press)
         self.my_lbl = wx.StaticText(panel)
 
